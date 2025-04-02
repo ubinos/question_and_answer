@@ -1,4 +1,4 @@
-## [Ubinos Issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aissue)
+## [All issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aissue)
 
-* [Opened Issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aopen)
-* [Closed Issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aclosed)
+* [Opened issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aopen)
+* [Closed issues](https://github.com/ubinos/question_and_answer/issues?q=is%3Aclosed)
